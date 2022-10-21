@@ -1,3 +1,3 @@
 # serdaris.com
 
-Dutluk. Bir gün burualarda bir yerde bir blog filizlenebilir.
+Dutluk. Bir gün buralarda bir yerde bir blog filizlenebilir.
